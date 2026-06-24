@@ -2,5 +2,6 @@
 name = "Essential Patches"
 author = "achepta"
 category = "Patches"
+version = "0.1.0"
 
 [script]

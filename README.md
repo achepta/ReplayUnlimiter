@@ -1,6 +1,6 @@
-# Essential Patches
+# Useful Patches
 
-Openplanet MP4 patch plugin for fixing core issues in the game.
+Openplanet MP4 patch plugin for fixing core limitations in the game.
 
 Currently available patches:
 

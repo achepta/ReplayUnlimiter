@@ -32,7 +32,7 @@ void ApplySettings() {
     g_ReplaySampleRatePatch.Apply(Setting_ReplaySampleRate);
 }
 
-[SettingsTab name="Essential Patches"]
+[SettingsTab name="Replay Unlimiter"]
 void RenderSettings() {
     int sizeCapStep = (Setting_ReplaySizeCap - REPLAY_SIZE_MIN_MIB) / REPLAY_SIZE_STEP_MIB;
     UI::Text("Replay size cap: " + Setting_ReplaySizeCap + " MiB");

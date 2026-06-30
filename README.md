@@ -1,6 +1,6 @@
-# Useful Patches
+# Replay Unlimiter
 
-Openplanet MP4 patch plugin for fixing core limitations in the game.
+Openplanet MP4 patch plugin for removing core replay limits.
 
 Currently available patches:
 
